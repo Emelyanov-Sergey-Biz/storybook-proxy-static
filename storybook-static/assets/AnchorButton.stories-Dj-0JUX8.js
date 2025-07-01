@@ -1,0 +1,10 @@
+import{f as u}from"./index-BEO02Wfb.js";import{j as f}from"./jsx-runtime-D_zvdyIk.js";import{d as x}from"./styled-components.browser.esm-8BVGdoQR.js";import"./index-D4lIrffr.js";const h=x.button.withConfig({displayName:"StyledAnchorButton",componentId:"sc-2h22j6-0"})(["border:1px solid ",";border-radius:4px;box-shadow:0px 8px 16px 0px #919eab29;background-color:",";color:",";font-weight:400;font-size:14px;font-family:Public Sans;display:flex;justify-content:center;align-items:center;padding:6px 16px 6px 16px;min-width:102px;cursor:",";&:disabled{opacity:0.6;}"],e=>e.$isActive?"#2755de":"#919eab3d",e=>e.$isActive?"#2755de":"#fff",e=>e.$isActive?"#fff":"#2755de",e=>e.disabled?"default":"pointer"),d=({children:e,isActive:p=!1,disabled:l,...m})=>f.jsx(h,{type:"button",$isActive:p,...m,disabled:l,children:e});d.__docgenInfo={description:"",methods:[],displayName:"AnchorButton",props:{isActive:{required:!1,tsType:{name:"boolean"},description:"",defaultValue:{value:"false",computed:!1}},disabled:{required:!1,tsType:{name:"boolean"},description:""},children:{required:!0,tsType:{name:"ReactReactNode",raw:"React.ReactNode"},description:""}}};const v={title:"ESW/Components/Buttons/AnchorButton",component:d,parameters:{layout:"centered",docs:{description:{component:"A small button component with states, designed for compact UI elements."}}},tags:["autodocs"],args:{onClick:u()}},t={args:{children:"R1,  Fri&Sat",isActive:!0}},o={args:{children:"R2, Sat"}};var r,s,n;t.parameters={...t.parameters,docs:{...(r=t.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  args: {
+    children: 'R1,  Fri&Sat',
+    isActive: true
+  }
+}`,...(n=(s=t.parameters)==null?void 0:s.docs)==null?void 0:n.source}}};var a,i,c;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    children: 'R2, Sat'
+  }
+}`,...(c=(i=o.parameters)==null?void 0:i.docs)==null?void 0:c.source}}};const S=["Active","NotActive"];export{t as Active,o as NotActive,S as __namedExportsOrder,v as default};

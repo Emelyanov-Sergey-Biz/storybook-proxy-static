@@ -1,0 +1,5 @@
+import{j as t}from"./jsx-runtime-D_zvdyIk.js";import{useMDXComponents as e}from"./index-B8rYRX2K.js";import{M as s}from"./index-BN34VvdZ.js";import"./index-D4lIrffr.js";import"./iframe-DV_Af7Go.js";import"./index-DsJinFGm.js";import"./index-CXQShRbs.js";import"./index-DrFu-skq.js";function r(o){const n={h1:"h1",p:"p",strong:"strong",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Introduction"}),`
+`,t.jsx(n.h1,{id:"sportwrench-ui-library",children:"Sportwrench UI Library"}),`
+`,t.jsxs(n.p,{children:["This Storybook contains reusable UI components for ",t.jsx(n.strong,{children:"Sportwrench"})," projects."]}),`
+`,t.jsx(n.p,{children:"All components are developed with consistency and scalability in mind, aiming to support multiple products under the Sportwrench ecosystem."}),`
+`,t.jsx(n.p,{children:"Use this library as the single source of truth for styling, behavior, and interactions across applications."})]})}function u(o={}){const{wrapper:n}={...e(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(r,{...o})}):r(o)}export{u as default};
